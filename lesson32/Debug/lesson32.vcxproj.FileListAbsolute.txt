@@ -1,0 +1,2 @@
+C:\Users\Кузнецов\source\repos\lesson32\Debug\lesson32.exe
+C:\Users\Кузнецов\source\repos\lesson32\Debug\lesson32.pdb
